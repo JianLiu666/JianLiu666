@@ -11,9 +11,5 @@ I'm a backend engineer based in Taiwan.
 
 ## Stat
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JianLiu666&theme=dark)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JianLiu666&show_icons=true&title_color=FA8B06&text_color=FCFDFC&icon_color=FA8B00&bg_color=151514&border_color=7E7C7B)
-
-
 <a><img width="420" src="http://github-readme-streak-stats.herokuapp.com?user=JianLiu666&theme=dark"/></a>
 <a><img width="420" src="https://github-readme-stats.vercel.app/api?username=JianLiu666&show_icons=true&title_color=FA8B06&text_color=FCFDFC&icon_color=FA8B00&bg_color=151514&border_color=7E7C7B"/></a>

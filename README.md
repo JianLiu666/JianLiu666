@@ -5,7 +5,11 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jianliou/)
 [![Gmail](https://img.shields.io/badge/-Gmail-C14438?style=flat&logo=Gmail&logoColor=white)](mailto:jianliu0616@gmail.com)
 
-I'm a backend engineer based in Taiwan.
+I'm a Backend Developer working in Taipei, Taiwan.
+
+## Tech Stack
+
+Go / Python / NodeJS / MySQL / PostgreSQL / MongoDB / ArangoDB / Redis / NATS.io / Apache Kafka / GCP / AWS
 
 ## Stats
 

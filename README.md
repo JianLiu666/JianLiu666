@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/jianliou/](https://drive.google.com/file/d/1K2WeNvS0mh-2PCTl0MlJQ6xmlmgrEdLI/view?usp=drive_link))
 [![Gmail](https://img.shields.io/badge/-Gmail-C14438?style=flat&logo=Gmail&logoColor=white)](mailto:jianliu0616@gmail.com)
 
-I'm a Backend Developer working in Taipei, Taiwan.
+I'm a Software Engineer working in Taipei, Taiwan.
 
 ## Tech Stack
 
